@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ハードモード",
+  "base_artist": "Furui Riho",
+  "createdAt": "2026-02-07T14:58:06.373271Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハードモード",
+      "artist": "風真いろは",
+      "has_synced": true,
+      "path": "select/01_ハードモード_風真いろは.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "7.射精許可　ハードモード",
+      "artist": "桃狐の変態調教課題",
+      "has_synced": true,
+      "path": "select/02_7.射精許可_ハードモード_桃狐の変態調教課題.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "３：本編(ハードモード)",
+      "artist": "Little Oasis",
+      "has_synced": true,
+      "path": "select/03_3_本編(ハードモード)_Little_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "EX_マゾアクメループ　※ハードモード",
+      "artist": "妄想解放戦線",
+      "has_synced": true,
+      "path": "select/04_EX_マゾアクメループ_※ハードモード_妄想解放戦線.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "2.ハードモード",
+      "artist": "玄姫屋",
+      "has_synced": true,
+      "path": "select/05_2.ハードモード_玄姫屋.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハードモード",
+      "artist": "Furui Riho",
+      "has_synced": false,
+      "path": "select/pl_01_ハードモード_Furui_Riho.txt"
+    }
+  ]
+}
